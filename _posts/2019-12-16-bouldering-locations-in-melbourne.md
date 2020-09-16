@@ -5,7 +5,6 @@ date:   2019-12-16
 categories: pinned
 author: Nick Sturgess
 ---
-## Map of bouldering locations in Melbourne
 
 <iframe src="https://www.google.com/maps/d/embed?mid=1RZqiu9pY8UQJ-SdbjtzCNtmXlZ7Pfxcy" width="640" height="480"></iframe>
 
