@@ -8,6 +8,8 @@ author: Andrew Shortridge
 
 ## Five minutes with ... Climb Mechanics
 
+![](/assets/posts/climb-mechanics/logo.jpg){:width="300px" }
+
 #### Can you tell us about your backgrounds, as climbers and trainers?
 [Garry A Williams](https://www.facebook.com/groups/610286689170812/user/217700497/), (aka. Coach Garry): I started climbing 15 years ago with sport and trad but have fallen in love with bouldering and analysing climbing technique. My previous life was as a biomedical researcher so I love geeking out about muscle physiology and biomechanics. As well as a coach, I'm a routesetter for Northside Boulders so I love puzzles and the process behind them. My favourite feeling comes from the process of achieving something that at first seemed impossible, and coaching let's me share that with other climbers.
 
