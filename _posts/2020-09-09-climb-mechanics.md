@@ -2,7 +2,6 @@
 layout: post
 title:  "Climb Mechanics"
 date:   2020-09-09
-categories: pinned
 author: Andrew Shortridge
 ---
 

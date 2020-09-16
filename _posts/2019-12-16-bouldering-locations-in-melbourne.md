@@ -2,7 +2,6 @@
 layout: post
 title:  "Bouldering Locations in Melbourne"
 date:   2019-12-16
-categories: pinned
 author: Nick Sturgess
 ---
 
