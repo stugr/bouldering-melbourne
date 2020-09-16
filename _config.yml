@@ -21,7 +21,7 @@
 title: Bouldering Melbourne
 #email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Support site for the Facebook group Bouldering Melbourne for all things bouldering in and around Melbourne, Victoria
+  Support site for the Facebook group Bouldering Melbourne for all things bouldering in and around Melbourne, Victoria, Australia
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 facebook_username: groups/bouldering.melbourne
