@@ -5,7 +5,7 @@ date:   2019-12-16
 author: Nick Sturgess
 ---
 
-<iframe src="https://www.google.com/maps/d/embed?mid=1RZqiu9pY8UQJ-SdbjtzCNtmXlZ7Pfxcy" width="640" height="480"></iframe>
+<iframe src="https://www.google.com/maps/d/embed?mid=1RZqiu9pY8UQJ-SdbjtzCNtmXlZ7Pfxcy" width="710" height="520"></iframe>
 
 You can view the map by itself [here](https://www.google.com/maps/d/viewer?mid=1RZqiu9pY8UQJ-SdbjtzCNtmXlZ7Pfxcy&ll=-37.93032062409548%2C145.03927795000004&z=11)
 
