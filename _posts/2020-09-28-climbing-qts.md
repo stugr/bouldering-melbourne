@@ -7,7 +7,7 @@ author: Andrew Shortridge
 
 ## Five minutes with ... Climbing QTs
 
-![](/assets/posts/climbing-qts/logo.png)
+![](/assets/posts/climbing-qts/logo.jpg)
 
 #### Could you please say a bit about ClimbingQTs?
 ClimbingQTs is an LGBTQ+ social climbing community and advocacy group based in Naarm \[Melbourne\]. All levels are welcome from beginner to advanced and events range from monthly meet-ups, inclusive indoor climbing sessions and multi-day outdoor adventures. At the heart of ClimbingQTs values is creating an inclusive, diverse and empowering environment where LGBTQ+ folk can be their true selves, learn new skills, participate in active social sport and connect with the outdoors. ClimbingQTs members do not need to identify as members of the LGBTQ+ community however must identify as allies to the community and invest a personal interest in fostering inclusive environments for all.
